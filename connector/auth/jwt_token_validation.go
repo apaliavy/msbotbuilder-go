@@ -29,8 +29,8 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v4"
-	"github.com/infracloudio/msbotbuilder-go/connector/cache"
-	"github.com/infracloudio/msbotbuilder-go/schema"
+	"github.com/apaliavy/msbotbuilder-go/connector/cache"
+	"github.com/apaliavy/msbotbuilder-go/schema"
 	"github.com/lestrrat-go/jwx/jwk"
 )
 

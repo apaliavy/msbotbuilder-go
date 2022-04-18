@@ -24,11 +24,12 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/infracloudio/msbotbuilder-go/connector/auth"
-	"github.com/infracloudio/msbotbuilder-go/connector/client"
-	"github.com/infracloudio/msbotbuilder-go/core/activity"
-	"github.com/infracloudio/msbotbuilder-go/schema"
 	"github.com/pkg/errors"
+
+	"github.com/apaliavy/msbotbuilder-go/connector/auth"
+	"github.com/apaliavy/msbotbuilder-go/connector/client"
+	"github.com/apaliavy/msbotbuilder-go/core/activity"
+	"github.com/apaliavy/msbotbuilder-go/schema"
 )
 
 // Adapter is the primary interface for the user program to perform operations with

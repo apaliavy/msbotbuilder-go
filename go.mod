@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/golang-jwt/jwt/v4 v4.4.1
-	github.com/infracloudio/msbotbuilder-go v0.2.5
 	github.com/lestrrat-go/jwx v1.2.23
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.1
